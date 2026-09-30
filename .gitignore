@@ -1,0 +1,11 @@
+# Entorno Virtual (¡Pesa mucho y no se debe subir a GitHub!)
+.venv/
+venv/
+env/
+
+# Archivos temporales de caché de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno secretas (API Keys, claves)
+.env
